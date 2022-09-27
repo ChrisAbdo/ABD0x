@@ -6,9 +6,14 @@
     "start": "next start"
   },
   "dependencies": {
+    "chai-bignumber": "^3.1.0",
+    "daisyui": "^2.31.0",
     "next": "latest",
     "react": "18.1.0",
-    "react-dom": "18.1.0"
+    "react-dom": "18.1.0",
+    "react-hot-toast": "^2.4.0",
+    "truffle": "^5.5.31",
+    "web3": "^1.8.0"
   },
   "devDependencies": {
     "@types/node": "17.0.35",
